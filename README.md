@@ -32,6 +32,14 @@ or alternatively
 
 > node server.js
 
+Endpoints
+----------
+
+GET http://localhost:3000/api
+POST http://localhost:3000/api/auth
+GET http://localhost:3000/api/users
+
+
 Useful links
 ------------
 
