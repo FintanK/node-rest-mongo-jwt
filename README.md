@@ -1,4 +1,5 @@
 Node.js REST API with JWT (JSON web token authentication)
+---------------------------------------------------------
 
 Note: Make sure your mongodb service is running.
 
